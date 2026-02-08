@@ -30,7 +30,7 @@ SecureAgent is a hardened, AI-controlled browser system engineered to protect ag
 
 1.  **Clone the repository**:
     ```bash
-    git clone <repo-url>
+    git clone https://github.com/Rishit-symbi/SecureAgent-V2.git
     cd IITK
     ```
 
