@@ -115,6 +115,7 @@ celerybeat.pid
 # Environments
 .env
 .venv
+.venv_secure
 env/
 venv/
 ENV/
