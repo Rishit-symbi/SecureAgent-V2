@@ -123,5 +123,4 @@ venv.bak/
 
 # Project specific
 audit_log.html
-screenshots/
 .vscode/
